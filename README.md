@@ -9,7 +9,7 @@ This application has different functionality that you find in a real online shop
 I learned a lot about how to use Angular for the frontend and its functionalities: work with components, services.
 
 ## Technologies
-Javascript + Angular for frontend, Java + Spring Boot for backen and MySql for database management.
+Angular for frontend, Java + Spring Boot for backen and MySql for database management.
 
 ## Functionalities & Some Photos
 
